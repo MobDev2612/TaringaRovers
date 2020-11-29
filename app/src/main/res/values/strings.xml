@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taringa Rovers</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_teams">Teams</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_my_account">My account</string>
+    <string name="title_about_us">About us</string>
+    <string name="about_taringa_text"><![CDATA[Taringa Rovers is a not for profit community club set up with the object (among others) of ensuring that all persons interested in the game of soccer are given the opportunity to play. As a not for profit community club, all income is used by the club for the benefit of the club. The Committee, who run the club, is comprised of voluntary members of the club (players & parents). In 2016 there were re over 750 registered players from 3year to U16’s in Juniors, Senior Men’s and U18s, Senior Women’s and Over 35’s in around 42 teams.The Committee is responsible for all aspects of operation & management of the club including registrations, fixtures, canteen, uniforms, employment of the Grounds Manager, operation of the clubhouse, liaising with Football Brisbane etc. We all want the best for all players & the club but with the limited time & resources we have, inevitably, there are frustrations & inefficiencies. Take home message - bear with us! There are plenty of jobs to be done, so let us know if you can help out – particularly if you see a gap that you think you have the skills to fill! The more members (& yes, that’s you if you have a player registered with the club) involved, the stronger & better the club will be!]]></string>
+</resources>

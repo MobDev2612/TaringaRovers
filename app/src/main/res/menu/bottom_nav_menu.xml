@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/ic_shop"
+        android:title="@string/title_shop" />
+
+    <item
+        android:id="@+id/navigation_my_account"
+        android:icon="@drawable/ic_person"
+        android:title="@string/title_my_account" />
+
+    <item
+        android:id="@+id/navigation_teams"
+        android:icon="@drawable/ic_teams"
+        android:title="@string/title_teams" />
+
+    <item
+        android:id="@+id/navigation_about_tiranga"
+        android:icon="@drawable/ic_about_us"
+        android:title="@string/title_about_us" />
+
+</menu>
