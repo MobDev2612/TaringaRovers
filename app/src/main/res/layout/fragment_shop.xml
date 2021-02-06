@@ -27,6 +27,7 @@
         android:fontFamily="@font/acme"
         android:text="Explore All"
         android:paddingLeft="5dp"
+        android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="normal"
         app:layout_constraintBottom_toTopOf="@+id/banner_end_2"
